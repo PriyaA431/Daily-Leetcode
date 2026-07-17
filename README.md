@@ -11,4 +11,8 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
