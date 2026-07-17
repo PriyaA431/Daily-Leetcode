@@ -11,7 +11,7 @@ class Solution:
 
 
 
-#---------------not sorted array-----
+#---------------For unsorted array elements-----
 
         # fin_list = []
         # for i in nums:
