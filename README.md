@@ -27,6 +27,7 @@ Daily LeetCode and DSA solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -35,4 +36,5 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
