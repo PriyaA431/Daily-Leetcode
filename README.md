@@ -10,6 +10,7 @@ Daily LeetCode and DSA solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
+| [1470-shuffle-the-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
