@@ -11,6 +11,7 @@ Daily LeetCode and DSA solutions
 | [0027-remove-element](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
+| [1929-concatenation-of-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
