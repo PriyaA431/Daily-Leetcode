@@ -18,6 +18,7 @@ Daily LeetCode and DSA solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0009-palindrome-number) |
 ## Two Pointers
 |  |
@@ -48,4 +49,12 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
