@@ -8,11 +8,13 @@ Daily LeetCode and DSA solutions
 | ------- |
 | [0001-two-sum](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +44,8 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
