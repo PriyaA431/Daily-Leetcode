@@ -1,4 +1,4 @@
-# daily-leetcode
+# Daily-leetcode
 Daily LeetCode and DSA solutions
 
 <!---LeetCode Topics Start-->
