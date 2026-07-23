@@ -13,22 +13,3 @@ class Solution:
 
         return not stack
         
-        
-        
-        
-        
-        
-        
-        # stack = []
-        # pairs = {'}':'{',']':'[',')':'('}
-
-        # for ch in pairs:
-        #     if ch in '{[(':
-        #         stack.append(ch)
-
-        #     else:
-        #         if not stack or stack[-1] != pairs[ch]:
-        #             return False
-        #     stack.pop()
-
-        # return True
