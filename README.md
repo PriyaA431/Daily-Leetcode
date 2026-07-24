@@ -24,6 +24,7 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0009-palindrome-number) |
 ## Two Pointers
 |  |
