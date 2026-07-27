@@ -39,6 +39,7 @@ Daily LeetCode and DSA solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -71,6 +72,7 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Simulation
 |  |
@@ -80,6 +82,7 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
