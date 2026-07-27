@@ -43,6 +43,7 @@ Daily LeetCode and DSA solutions
 | [0022-generate-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Daily LeetCode and DSA solutions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
