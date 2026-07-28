@@ -7,6 +7,7 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -31,6 +32,7 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -96,4 +98,8 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
