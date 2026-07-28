@@ -3,4 +3,4 @@ class Solution:
         if len(s) != len(goal):
             return False
         else:
-            return goal in (s + s) 
+            return goal in (s + s)
