@@ -5,4 +5,4 @@ class Solution:
             for i in str(num):
                 lst.append(int(i)) 
 
-        return lst 
+        return lst
