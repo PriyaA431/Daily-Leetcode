@@ -16,6 +16,7 @@ Daily LeetCode and DSA solutions
 | [0485-max-consecutive-ones](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
