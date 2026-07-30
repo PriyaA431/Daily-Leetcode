@@ -17,12 +17,14 @@ Daily LeetCode and DSA solutions
 | [1470-shuffle-the-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/PriyaA431/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
+| [2784-check-if-array-is-good](https://github.com/PriyaA431/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
+| [2784-check-if-array-is-good](https://github.com/PriyaA431/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Linked List
 |  |
 | ------- |
