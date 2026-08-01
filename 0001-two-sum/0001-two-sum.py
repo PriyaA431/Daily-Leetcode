@@ -10,9 +10,6 @@ class Solution:
 
             seen[num] = i
 
-
-
-
         #-----------------------------
 
         # for i in range(len(nums)):
