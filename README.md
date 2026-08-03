@@ -24,6 +24,7 @@ Daily LeetCode and DSA solutions
 | [0001-two-sum](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [2784-check-if-array-is-good](https://github.com/PriyaA431/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Math
@@ -33,6 +34,7 @@ Daily LeetCode and DSA solutions
 | [0007-reverse-integer](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +50,7 @@ Daily LeetCode and DSA solutions
 | [0005-longest-palindromic-substring](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
