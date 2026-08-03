@@ -4,6 +4,7 @@ class Solution:
         
         total = 0
         prev_value = 0
+        # Traverse right to left
         for char in reversed(s):
             curr_value = roman_map[char]
 
