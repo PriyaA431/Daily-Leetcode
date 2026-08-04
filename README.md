@@ -11,6 +11,7 @@ Daily LeetCode and DSA solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -43,6 +44,7 @@ Daily LeetCode and DSA solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +100,7 @@ Daily LeetCode and DSA solutions
 | [0005-longest-palindromic-substring](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,4 +117,8 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
