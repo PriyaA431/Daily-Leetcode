@@ -121,4 +121,8 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
