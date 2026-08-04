@@ -12,7 +12,7 @@ class Solution:
 
         for i in range(len(s)):
             # Odd length palindrome
-            p1 = expand(i, i)
+            p1 = expand(i, i) 
 
             # Even length palindrome
             p2 = expand(i, i + 1)
