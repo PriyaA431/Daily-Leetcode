@@ -17,7 +17,7 @@ class Solution:
             # Even length palindrome 
             p2 = expand(i, i + 1)
 
-            # Keep the longer palindrome
+            # Keep the longer palindrome 
             if len(p1) > len(res):
                 res = p1
 
