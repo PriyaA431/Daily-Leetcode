@@ -14,7 +14,7 @@ class Solution:
             # Odd length palindrome
             p1 = expand(i, i) 
 
-            # Even length palindrome
+            # Even length palindrome 
             p2 = expand(i, i + 1)
 
             # Keep the longer palindrome
