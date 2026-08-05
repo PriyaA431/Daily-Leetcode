@@ -7,7 +7,7 @@ class Solution:
                 left -= 1
                 right += 1
 
-            # Remove the extra expansion
+            # Remove the extra expansion 
             return s[left + 1:right]
 
         for i in range(len(s)):
