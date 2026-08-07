@@ -11,6 +11,7 @@ Daily LeetCode and DSA solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
@@ -109,6 +110,7 @@ Daily LeetCode and DSA solutions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0035-search-insert-position) |
 ## Bit Manipulation
 |  |
 | ------- |
