@@ -13,6 +13,7 @@ Daily LeetCode and DSA solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@ Daily LeetCode and DSA solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [2784-check-if-array-is-good](https://github.com/PriyaA431/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Math
@@ -57,6 +59,7 @@ Daily LeetCode and DSA solutions
 | [0020-valid-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0049-group-anagrams) |
 | [0459-repeated-substring-pattern](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0796-rotate-string) |
 ## Sliding Window
@@ -77,6 +80,7 @@ Daily LeetCode and DSA solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [2784-check-if-array-is-good](https://github.com/PriyaA431/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Linked List
