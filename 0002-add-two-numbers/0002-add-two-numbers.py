@@ -19,10 +19,9 @@ class Solution:
                 total += l2.val
                 l2 = l2.next
 
-            carry = total // 10 
+            carry = total // 10
 
             current.next = ListNode(total % 10)
             current = current.next
 
         return dummy.next
-
