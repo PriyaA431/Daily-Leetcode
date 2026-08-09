@@ -5,8 +5,7 @@ class Solution:
         
         for ch in s:
             while ch in window:
-                window.pop(0)
-            
+                window.pop(0) 
             window.append(ch)
             max_len = max(max_len, len(window))
         
