@@ -39,6 +39,7 @@ Daily LeetCode and DSA solutions
 | [0009-palindrome-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0029-divide-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Daily LeetCode and DSA solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0136-single-number) |
 ## Greedy
 |  |
