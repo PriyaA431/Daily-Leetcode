@@ -15,6 +15,7 @@ Daily LeetCode and DSA solutions
 | [0035-search-insert-position](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -41,6 +42,7 @@ Daily LeetCode and DSA solutions
 | [0012-integer-to-roman](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/PriyaA431/Daily-Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
