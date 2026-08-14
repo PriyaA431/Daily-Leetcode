@@ -23,6 +23,6 @@ class Solution:
 
                     # Use x* if previous char matches
                     if p[j - 2] == s[i - 1] or p[j - 2] == ".":
-                        dp[i][j] |= dp[i - 1][j]
+                        dp[i][j] |= dp[i - 1][j] 
 
         return dp[m][n]
