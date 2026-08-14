@@ -19,7 +19,6 @@ class Solution:
                 # Case 2: '*' found
                 elif p[j - 1] == "*":
 
-                    # Ignore x*
                     dp[i][j] = dp[i][j - 2]
 
                     # Use x* if previous char matches
